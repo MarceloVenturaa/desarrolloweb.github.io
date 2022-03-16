@@ -2,6 +2,6 @@
 
 Hola,
 
-Este es mi proyecto del curso de JavaScript de CoderHouse, espero les guste ;)
+Este es mi proyecto final del curso de JavaScript de CoderHouse, espero les guste ;)
 
 Saludos.
